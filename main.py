@@ -1,2 +1,2 @@
-import data_investigation.py
-import algorithms.py
+exec(open("data_investigation.py").read())
+exec(open("algorithms.py").read())
